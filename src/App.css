@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  widows: 100hv;
+  display: flex;
+   align-items: center;
+  justify-content: center;
+}
+.App {
+  
+  background-color:rgb(133, 133, 245);
+  width: 500px;
+  border:1px solid black;
+  text-align: center;
+}
+ul{
+    display: flex;
+    list-style:none;
+}
+form{
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
